@@ -117,7 +117,7 @@ WASHINGTON UNIVERSITY IN ST.
 \begin_inset Newline newline
 \end_inset
 
-Department of Economics
+Division of Biology and Biomedical Sciences Neurosciences
 \end_layout
 
 \begin_layout Standard
@@ -138,24 +138,36 @@ Dissertation Examination Committee:
 \begin_inset Newline newline
 \end_inset
 
-Ping Wang, Chair
+Katherine Davidsen, Chair 
 \begin_inset Newline newline
 \end_inset
 
-Alexander Monge-Naranjo
+Michael Randolf, Co-Chair 
 \begin_inset Newline newline
 \end_inset
 
-Juan Pantano
+Richard Lewis 
 \begin_inset Newline newline
 \end_inset
 
-B.
- Ravikumar
+Hillary O
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+'
+\end_layout
+
+\end_inset
+
+Connell 
 \begin_inset Newline newline
 \end_inset
 
-Yongseok Shin
+Jack Taylor
 \end_layout
 
 \begin_layout Standard
@@ -172,7 +184,8 @@ Yongseok Shin
 \paragraph_spacing other 1.15
 \noindent
 \align center
-Essays on Structural Transformation, Productivity, and Development
+A Mock Thesis on the Proper Formatting of Dissertations and Theses for Arts
+ & Sciences Graduate Students
 \begin_inset Newline newline
 \end_inset
 
@@ -180,7 +193,7 @@ by
 \begin_inset Newline newline
 \end_inset
 
-Junmin Liao
+Paige Turner
 \end_layout
 
 \begin_layout Standard
@@ -304,7 +317,9 @@ copyright ~
 
 \end_inset
 
-2015, Junmin Liao
+2015, 
+\size default
+Paige Turner
 \end_layout
 
 \begin_layout Standard
@@ -490,14 +505,43 @@ numberline{}Acknowledgements}
 
 \end_layout
 
+\begin_layout Chapter*
+Acknowledgments
+\end_layout
+
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "acknowledgement.lyx"
+An acknowledgments page must be included in your final dissertation or thesis.
+ If you wish to include a special dedication you can either use it to close
+ the acknowledgments page or place it on the page that immediately follows.
+ The acknowledgments page should be listed in the table of contents.
+ Place it after the final list used in the document, and before any dedication,
+ abstract, or epigraph that is included.
+\end_layout
 
-\end_inset
+\begin_layout Standard
+It is appropriate to acknowledge sources of academic and financial support;
+ some fellowships and grants require acknowledgment.
+ 
+\end_layout
 
+\begin_layout Standard
+We offer special thanks to the Washington University School of Engineering
+ for allowing us to use their dissertation and thesis template as a starting
+ point for the development of this document.
+\end_layout
 
+\begin_layout Standard
+\align right
+Paige Turner
+\end_layout
+
+\begin_layout Standard
+Washington University in St.
+ Louis
+\end_layout
+
+\begin_layout Standard
+May 2015
 \end_layout
 
 \begin_layout Standard
@@ -519,6 +563,22 @@ filename "acknowledgement.lyx"
 
 \size normal
 Decated to my family.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\size normal
+If you include a special dedication as shown here be sure to keep it brief
+ and center it on the page both horizontally and vertically.
+ Alternatively, you may remove this page altogether, and a special dedication
+ can be placed as the final paragraph of your acknowledgments page.
+ Do not include the dedication page in your table of contents.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -570,13 +630,59 @@ numberline{}Abstract}
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "abstract.lyx"
+ABSTRACT OF THE DISSERTATION 
+\end_layout
 
+\begin_layout Standard
+A Mock Thesis on the Proper Formatting of Dissertations and Theses for Arts
+ & Sciences Graduate Students
+\begin_inset Newline newline
 \end_inset
 
+by
+\begin_inset Newline newline
+\end_inset
 
+Paige Turner 
+\end_layout
+
+\begin_layout Standard
+Doctor of Philosophy in Biology and Biomedical Sciences Neurosciences
+\begin_inset Newline newline
+\end_inset
+
+Washington University in St.
+ Louis, 2015
+\begin_inset Newline newline
+\end_inset
+
+Professor Katherine Davidsen, Chair
+\begin_inset Newline newline
+\end_inset
+
+Professor Michael Randolf, Co-Chair
+\end_layout
+
+\begin_layout Standard
+After removing these comments, begin typing the body of your abstract here,
+ double-spaced.
+ Your font should be 12-point (which is the text of this sample paragraph).
+ No part of the abstract should be bolded.
+ If this is for your master’s degree, be sure to change all occurrences
+ of the word “dissertation” to display as “thesis,” and change “Doctor of
+ Philosophy” or “Doctor of Liberal Arts” to “Master of Arts,” “Master of
+ Liberal Arts,” or “Master of Fine Arts,” whichever applies.
+ In the abstract heading above, make sure you use the year your degree is
+ to be officially earned.
+ Be sure to use your full name as it is recorded in WebSTAC, your dissertation
+ or thesis advisor’s full name(s) wherever appropriate, and the correct
+ title of your degree whenever referencing it.
+ The title of your degree will not always be the same as the title of your
+ department or program, so please check with your departmental administrative
+ assistant and advisor(s) to be sure you are using the correct degree title.
+ Please note that an abstract is required for all dissertation submissions
+ in ProQuest.
+ An abstract is optional for master’s thesis submissions.
 \end_layout
 
 \begin_layout Standard
@@ -603,7 +709,18 @@ pagenumbering{arabic}
 \end_layout
 
 \begin_layout Chapter
-The Rise of the Service Sector in China
+Parts of the Dissertation
+\end_layout
+
+\begin_layout Standard
+This chapter describes the components of a dissertation or thesis.
+ You may not have to include all components described here, but you must
+ follow the prescribed order for the components you do include.
+ On page two Table 1.1 lists the required and optional components in the
+ order that they should appear.
+ Your manuscript should include three main parts: the front matter, the
+ body, and the back matter.
+ Each of these parts is described below.
 \end_layout
 
 \end_body
