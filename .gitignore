@@ -127,3 +127,6 @@ sympy-plots-for-*.tex/
 
 # Shell
 *.sh
+
+# tmp
+*.lyx~
