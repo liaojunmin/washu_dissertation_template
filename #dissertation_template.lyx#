@@ -1303,6 +1303,18 @@ Acknowledgments
 
 \size scriptsize
 Dedication
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Do not include in the table of contents.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1473,6 +1485,18 @@ Body
 
 \size scriptsize
 Epigraph
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Do not include in the table of contents.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1587,6 +1611,19 @@ Back Matter
 
 \size scriptsize
 References
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\size scriptsize
+There are two options for the placement of references; they can be listed
+ at the end of each chapter, or at the end of the document.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1699,6 +1736,19 @@ Appendices
 
 \size scriptsize
 Curriculum Vitae
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+
+\size scriptsize
+Do not put your Social Security Number, birthdate, or birthplace on your
+ C.V.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1752,11 +1802,6 @@ The above items may be included in your dissertation or thesis, in the order
  in which they are listed.
  Any optional components, if used, must be included in the table of contents,
  unless noted below.
- Do not include Dedication and Epigraph in the table of contents.
- There are two options for the placement of references; they can be listed
- at the end of each chapter, or at the end of the document.
- Do not put your Social Security Number, birthdate, or birthplace on your
- C.V.
 \end_layout
 
 \end_inset
@@ -1800,59 +1845,12 @@ Format the title page so that it is centered vertically and horizontally
  
 \end_layout
 
-\begin_layout Subsection
-Copyright Page 
-\end_layout
-
 \begin_layout Standard
-It is always suggested that upon completion of the text, the student add
- the copyright symbol 
-\size normal
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-copyright ~
-\end_layout
-
-\end_inset
-
-
-\size default
- with the year and the student’s name on one line, on a page following the
- title page.
+Copyright Page It is always suggested that upon completion of the text,
+ the student add the copyright symbol © with the year and the student’s
+ name on one line, on a page following the title page.
  Format your copyright page exactly as it is shown in this template.
- 
-\end_layout
-
-\begin_layout Standard
-Example:
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-
-\size normal
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-copyright ~
-\end_layout
-
-\end_inset
-
-
-\size default
- 2015, Paige Turner
+ Example: © 2015, Paige Turner
 \end_layout
 
 \begin_layout Standard
@@ -1860,28 +1858,9 @@ Once you create a work, it is automatically protected by U.S.
  copyright law with you as the author.
  You do not need to register the copyright with the U.S.
  Copyright Office, though doing so provides certain advantages.
- More information about copyright registration can be found at 
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://libguides.wustl.edu/copyright/registration
-\end_layout
-
-\end_inset
-
-.
- 
-\end_layout
-
-\begin_layout Subsection
-Table of Contents 
-\end_layout
-
-\begin_layout Standard
-The words “Table of Contents” must appear in chapter title style at the
- top of the page.
+ More information about copyright registration can be found at http://libguides.w
+ustl.edu/copyright/registration 1.1.3 Table of Contents The words “Table of
+ Contents” must appear in chapter title style at the top of the page.
  It must include the page numbers of all front and back matter elements,
  unless otherwise specified.
  The table of contents must include the page numbers of all chapters and
@@ -1889,66 +1868,41 @@ The words “Table of Contents” must appear in chapter title style at the
  In addition, it may include the page numbers of all subsections.
  Chapter titles may be typed in plain or bold font.
  All titles and headings must be followed by a page number.
- 
-\end_layout
-
-\begin_layout Standard
-Make certain that any long titles align nicely with the body of text.
+ The table of contents in this template is set up in Microsoft Word.
+ Using the heading formats provided and the “Update Table” feature you can
+ update page numbers and headings automatically with just a few clicks of
+ your mouse.
+ To update, click References on the top tab, then click Update Table after
+ which you can choose to “Update page numbers only” or “Update entire table.”
+ When you choose to update the entire table you will need to replace the
+ words “ABSTRACT OF THE DISSERTATION/THESIS” with the word “Abstract” in
+ your table of contents.
+ More information on how to create and update a table of contents can be
+ found by searching the Help link in Microsoft Word.
+ Make certain that any long titles align nicely with the body of text.
  Multi-lined chapter titles or section titles should break at a logical
  point and align in a manner allowing the titles to be read clearly, without
  confusion.
  Sometimes this will mean forcing a line break at a logical point and relies
  on your own good judgment.
- 
-\end_layout
-
-\begin_layout Subsection
-List of Figures 
-\end_layout
-
-\begin_layout Standard
-If one or more figures are used in the document, there must be a list of
- all figures.
+ 1.1.4 List of Figures If one or more figures are used in the document, there
+ must be a list of all figures.
  The list should be spaced at 1.15.
  Begin each listing on a new line.
  Format the list of figures the same way the table of contents is formatted,
  but put the words “List of Figures” in the heading.
- 
-\end_layout
-
-\begin_layout Subsection
-List of Tables 
-\end_layout
-
-\begin_layout Standard
-If one or more tables are used in the document, there must be a list of
- all tables.
+ 1.1.5 List of Tables If one or more tables are used in the document, there
+ must be a list of all tables.
  The list should be spaced at 1.15.
  Begin each listing on a new line.
  Format the list of tables the same way the table of contents is formatted,
  but put the words “List of Tables” in the heading.
- 
-\end_layout
-
-\begin_layout Subsection
-List of Abbreviations 
-\end_layout
-
-\begin_layout Standard
-Include a list of abbreviations only if you use abbreviations that are not
- common in your field.
+ 1.1.6 List of Abbreviations Include a list of abbreviations only if you use
+ abbreviations that are not common in your field.
  Arrange the list alphabetically.
  Type the words “List of Abbreviations” in chapter title style at the top
  of your list.
- 
-\end_layout
-
-\begin_layout Subsection
-Acknowledgments 
-\end_layout
-
-\begin_layout Standard
-An acknowledgments section must be included.
+ 1.1.7 Acknowledgments An acknowledgments section must be included.
  Use it to thank those who supported your research through contributions
  of time, money, or other resources.
  Some grants require an acknowledgment.
@@ -1956,29 +1910,13 @@ An acknowledgments section must be included.
  your page.
  If the acknowledgments fill more than one page, put the heading only on
  the first page.
- 
-\end_layout
-
-\begin_layout Subsection
-Dedication 
-\end_layout
-
-\begin_layout Standard
-The dedication page is optional.
+ 1.1.8 Dedication The dedication page is optional.
  If you decide to include a separate dedication page, make it short and
  center it on the page, both horizontally and vertically.
  Do not include it in your table of contents.
  See page vii for more detailed information.
- 
-\end_layout
-
-\begin_layout Subsection
-Abstract 
-\end_layout
-
-\begin_layout Standard
-Page An abstract page is optional in the dissertation or thesis, but will
- be required when you submit your manuscript electronically.
+ 1.1.9 Abstract Page An abstract page is optional in the dissertation or thesis,
+ but will be required when you submit your manuscript electronically.
  Format the abstract page precisely as shown in the front matter of this
  document.
  See Appendix for further details.
