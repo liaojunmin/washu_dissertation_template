@@ -564,7 +564,7 @@ May 2015
 \align center
 
 \size normal
-Decated to my family.
+Dedicated to my family.
 \begin_inset Foot
 status open
 
@@ -1973,7 +1973,7 @@ The dedication page is optional.
 \end_layout
 
 \begin_layout Subsection
-Abstract 
+Abstract
 \end_layout
 
 \begin_layout Standard
@@ -1982,21 +1982,52 @@ Page An abstract page is optional in the dissertation or thesis, but will
  Format the abstract page precisely as shown in the front matter of this
  document.
  See Appendix for further details.
- 1.1.10 Preface A preface is optional.
+ 
+\end_layout
+
+\begin_layout Subsection
+Preface 
+\end_layout
+
+\begin_layout Standard
+A preface is optional.
  If you include a preface, use it to explain the motivation behind your
  work.
  Format the preface the same way the acknowledgments section is formatted,
  but use the word “Preface” in the heading.
- 1.2 Body of the Dissertation or Thesis The body of the dissertation or thesis
- should be divided into chapters, sections, and subsections as required
- by your discipline, and should be numbered as in this template.
+ 
+\end_layout
+
+\begin_layout Section
+Body of the Dissertation or Thesis 
+\end_layout
+
+\begin_layout Standard
+The body of the dissertation or thesis should be divided into chapters,
+ sections, and subsections as required by your discipline, and should be
+ numbered as in this template.
  Divisions smaller than subsections may be used, but they should not be
  labeled with numbers (see 2.5.1 for more information).
- 1.3 Back Matter The back matter includes all material that appears after
- the body of the text.
- 1.3.1 References/Bibliography/Works Cited There are two options for the placement
- of references; they can be listed at the end of each chapter or at the
- end of the document.
+ 
+\end_layout
+
+\begin_layout Section
+Back Matter 
+\end_layout
+
+\begin_layout Standard
+The back matter includes all material that appears after the body of the
+ text.
+ 
+\end_layout
+
+\begin_layout Subsection
+References/Bibliography/Works Cited 
+\end_layout
+
+\begin_layout Standard
+There are two options for the placement of references; they can be listed
+ at the end of each chapter or at the end of the document.
  What you call this section and how you format it should follow the usual
  convention of your discipline and be acceptable to your committee.
  Depending on how you title and where you place this section, type the appropria
@@ -2007,8 +2038,16 @@ te words in either the section heading or chapter title format at the top
  in the table of contents.
  If placed at the end of your document, this section should follow the conclusio
 n of the text.
- 1.3.2 Appendices Appendices may be used for including reference material
- that is too lengthy or inappropriate for the dissertation or thesis body.
+ 
+\end_layout
+
+\begin_layout Subsection
+Appendices 
+\end_layout
+
+\begin_layout Standard
+Appendices may be used for including reference material that is too lengthy
+ or inappropriate for the dissertation or thesis body.
  If one appendix is included, an appendix title is optional.
  If more than one appendix is included, each one should be titled and lettered.
  In general, appendices should be formatted like chapters.
@@ -2020,9 +2059,12 @@ n of the text.
  
 \end_layout
 
+\begin_layout Subsection
+Curriculum Vitae 
+\end_layout
+
 \begin_layout Standard
-1.3.3 Curriculum Vitae Including a Curriculum Vitae (C.V.) with your dissertation
- or thesis is optional.
+Including a Curriculum Vitae (C.V.) with your dissertation or thesis is optional.
  If you choose to include your C.V., it should include your name, the month
  & year you will be earning your degree, and relevant academic and professional
  achievements.
@@ -2033,17 +2075,44 @@ n of the text.
 \end_layout
 
 \begin_layout Standard
-Chapter 2: Dissertation or Thesis Format The following guidelines offer
- you some degree of flexibility in formatting your thesis or dissertation.
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Dissertation or Thesis Format 
+\end_layout
+
+\begin_layout Standard
+The following guidelines offer you some degree of flexibility in formatting
+ your thesis or dissertation.
  Whichever options you choose to use, you must use them consistently throughout
  the document.
- 2.1 Margins Your printed output must reflect physically measurable top,
- bottom, left, and right margins of 1 inch.
+ 
+\end_layout
+
+\begin_layout Section
+Margins 
+\end_layout
+
+\begin_layout Standard
+Your printed output must reflect physically measurable top, bottom, left,
+ and right margins of 1 inch.
  Some systems’ settings produce varying results when printing to different
  printers, so be sure to measure your output.
  Remember, nothing, not even page numbers, should print in the margins.
- 2.2 Page Numbers All pages numbers should be placed on the center of each
- page immediately above the bottom margin.
+ 
+\end_layout
+
+\begin_layout Section
+Page Numbers 
+\end_layout
+
+\begin_layout Standard
+All pages numbers should be placed on the center of each page immediately
+ above the bottom margin.
  Number all pages in your document except for the title page and the optional
  copyright page which might follow the title page.
  Number the “front matter” pages (i.e., the pages that come prior to the main
@@ -2056,76 +2125,222 @@ ion, if one is used, or on the first page of the first chapter.
  Options are summarized in Table 1.1 on page two.
 \end_layout
 
+\begin_layout Section
+Text 
+\end_layout
+
 \begin_layout Standard
-2.3 Text This template uses a 12-point, Times New Roman font throughout and
- is recommended for your dissertation or thesis.
+This template uses a 12-point, Times New Roman font throughout and is recommende
+d for your dissertation or thesis.
  However, should you choose to use a different font, you should match the
  font size as close as possible.
  Use double-spacing for body text.
  Use either left justification with a ragged right edge or full justification.
- 2.4 Chapter Titles Begin each chapter on a new page.
+ 
+\end_layout
+
+\begin_layout Section
+Chapter Titles 
+\end_layout
+
+\begin_layout Standard
+Begin each chapter on a new page.
  You may start the chapter title below the top margin or you may leave some
  space and start the chapter title up to 3 inches from the top edge of the
  page.
  The font size for chapter titles should be no larger than 24.
- There are two options for formatting the chapter title: a.
- Type the word “Chapter” followed by the chapter number, skip a line, and
- type the chapter title on the following line; or b.
- Type the chapter number followed by the chapter title, all on the same
- line.
- 2.5 Section Headings & Numbering Headings may be typed above or on the same
- line as the sections they label.
+ There are two options for formatting the chapter title: 
+\end_layout
+
+\begin_layout Enumerate
+Type the word “Chapter” followed by the chapter number, skip a line, and
+ type the chapter title on the following line; or 
+\end_layout
+
+\begin_layout Enumerate
+Type the chapter number followed by the chapter title, all on the same line.
+\end_layout
+
+\begin_layout Section
+Section Headings & Numbering 
+\end_layout
+
+\begin_layout Standard
+Headings may be typed above or on the same line as the sections they label.
  Type the chapter number and section number before the section title.
  The font size for section headings should be no larger than 18.
- 2.5.1 Subsection Headings & Numbering This should follow the usual convention
- of your discipline and be acceptable to your committee; if your discipline
- calls for them they must be in included in the table of contents.
+ 
+\end_layout
+
+\begin_layout Subsection
+Subsection Headings & Numbering 
+\end_layout
+
+\begin_layout Standard
+This should follow the usual convention of your discipline and be acceptable
+ to your committee; if your discipline calls for them they must be in included
+ in the table of contents.
  Type the chapter number, section number and subsection number before the
  subsection title.
  The font size for subsection headings should be no larger than 14.
 \end_layout
 
+\begin_layout Subsection
+Headings for Divisions Smaller than Subsections 
+\end_layout
+
 \begin_layout Standard
-Headings for Divisions Smaller than Subsections Do not number headings for
- divisions smaller than subsections.
+Do not number headings for divisions smaller than subsections.
  These are not included in the table of contents.
  Headings may be typed above or on the same line as the sections they label.
  Divisions smaller than subsections should be the same font size as the
  body text.
- 2.6 Figures and Tables There are two options for numbering your figures
- and tables; choose one and be consistent in its use throughout your document.
+ 
+\end_layout
+
+\begin_layout Section
+Figures and Tables 
+\end_layout
+
+\begin_layout Standard
+There are two options for numbering your figures and tables; choose one
+ and be consistent in its use throughout your document.
  In either case, the name and description of the figure or table should
  be single spaced and can be a smaller font size.
- a.
- Maintain a separate numbering sequence for your list of figures and list
+ 
+\end_layout
+
+\begin_layout Enumerate
+Maintain a separate numbering sequence for your list of figures and list
  of tables.
  Label figures with the word “Figure” and tables with the word “Table”;
- or b.
- Label both figures and tables with the word “Figure” and maintain one numbering
+ or 
+\end_layout
+
+\begin_layout Enumerate
+Label both figures and tables with the word “Figure” and maintain one numbering
  sequence.
- Place figures and tables as close to their reference in the text as possible.
- Do not let figures or tables spill out into the margins.
- a.
- Place the figure number and title below each figure (or table labeled as
- a figure).
- b.
- Place the table number and title above each table labeled as a table.
  
 \end_layout
 
 \begin_layout Standard
-Figure 2.1 You can left justify your figure.
+Place figures and tables as close to their reference in the text as possible.
+ Do not let figures or tables spill out into the margins.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Place the figure number and title below each figure (or table labeled as
+ a figure).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Place the table number and title above each table labeled as a table.
+ 
 \end_layout
 
 \begin_layout Standard
-Figure 2.2 You can center your figure.
- 2.7 Lists You may include lettered, numbered, or bulleted lists in your
- document.
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename test_img.png
+	width 50text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+You can left justify your figure.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename test_img.png
+	width 50text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+You can center your figure.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Lists 
+\end_layout
+
+\begin_layout Standard
+You may include lettered, numbered, or bulleted lists in your document.
  Use consistent punctuation and capitalization throughout each list.
  Lists may be indented.
- 2.8 Footnotes and Endnotes You may use footnotes or endnotes for brief notes
- that are not appropriate for the body of the text.1 Use either footnotes
- or endnotes consistently throughout your dissertation or thesis.
+ 
+\end_layout
+
+\begin_layout Section
+Footnotes and Endnotes 
+\end_layout
+
+\begin_layout Standard
+You may use footnotes or endnotes for brief notes that are not appropriate
+ for the body of the text.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The use of endnotes and footnotes should follow the usual convention of
+ your discipline and be acceptable to your committee.
+\end_layout
+
+\end_inset
+
+ Use either footnotes or endnotes consistently throughout your dissertation
+ or thesis.
  Endnotes are positioned at the end of each chapter.
  Single-space within each footnote or endnote.
  Footnotes should be numbered consecutively within a chapter; numbers should
@@ -2135,99 +2350,269 @@ Figure 2.2 You can center your figure.
  
 \end_layout
 
+\begin_layout Section
+Quotations 
+\end_layout
+
 \begin_layout Standard
-2.9Quotations You must use quotation marks and parenthetical references to
- indicate words that are not your own.
+You must use quotation marks and parenthetical references to indicate words
+ that are not your own.
  Put quotation marks around short quotes.
  Put long quotes in separate single-spaced paragraphs, indented up to 1
  inch from the left margin (these are called block quotations).
  Kate Turabian, editor of official publications and dissertation secretary
  at the University of Chicago for over 25 years, distinguishes short and
- long quotes as follows: Short, direct prose quotations should be incorporated
- into the text of the paper and enclosed in double quotation marks: “One
- small step for man; one giant leap for mankind.” But in general a prose
- quotation of two or more sentences which at the same time runs to four
- or more lines of text in a paper should be set off from the text and indented
- in its entirety…[8] 
+ long quotes as follows: 
+\end_layout
+
+\begin_layout Quote
+\paragraph_spacing single
+Short, direct prose quotations should be incorporated into the text of the
+ paper and enclosed in double quotation marks: “One small step for man;
+ one giant leap for mankind.” But in general a prose quotation of two or
+ more sentences which at the same time runs to four or more lines of text
+ in a paper should be set off from the text and indented in its entirety…[8]
+ 
+\end_layout
+
+\begin_layout Section
+Equations 
 \end_layout
 
 \begin_layout Standard
-2.10 Equations Equation numbering and formatting should follow the usual
- convention of your discipline and be acceptable to your committee.
- Equations may be set in-line with the text or numbered and placed in separate
+Equation numbering and formatting should follow the usual convention of
+ your discipline and be acceptable to your committee.
+ 
+\end_layout
+
+\begin_layout Standard
+Equations may be set in-line with the text or numbered and placed in separate
  paragraphs.
  Use the same numbering style for equations as you would for figures and
  tables.
- Here is an example of an equation set in-line with a paragraph: E = mc2.
- Here is an example equation placed in a separate paragraph: E = mc2 (1.1)
+ Here is an example of an equation set in-line with a paragraph: 
+\begin_inset Formula $E=mc^{2}$
+\end_inset
+
+.
+ Here is an example equation placed in a separate paragraph: 
+\begin_inset Formula 
+\begin{equation}
+E=mc^{2}
+\end{equation}
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-References/Bibliography/Works Cited [1] There are no references for this
- template, but this is where they could be placed if there were.
- [2] Or you can place them at the end of each chapter.
- [3] What you call this section and how you format it should follow the
- usual convention of your discipline and be acceptable to your committee.
- [4] See section 1.3.1 for more information.
- Appendix What to Call your Degree Program on your Title Page and your Abstract
- Page
+\begin_inset Newpage clearpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Title page The second line (or second and third lines) on the page must
- name your administrative unit.
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "test"
+options "bibtotoc,ieeetr"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{
+\backslash
+numberline{}Appendix}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+\start_of_appendix
+Appendix 
+\end_layout
+
+\begin_layout Section*
+Title page 
+\end_layout
+
+\begin_layout Standard
+The second line (or second and third lines) on the page must name your administr
+ative unit.
+\end_layout
+
+\begin_layout Itemize
 If your degree is offered by one department of Arts & Sciences on the Danforth
- Campus, your unit is that department: Department of East Asian Languages
- & Cultures
+ Campus, your unit is that department: 
 \end_layout
 
 \begin_layout Standard
+\align center
+Department of East Asian Languages & Cultures
+\end_layout
+
+\begin_layout Itemize
 For a co-sponsored degree such as English & Comparative Literature, credit
- both: Department of English Program in Comparative Literature
+ both: 
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+Department of English 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+Program in Comparative Literature
+\end_layout
+
+\begin_layout Itemize
 For the Division of Biology & Biomedical Sciences, credit DBBS and your
- program: Division of Biology & Biomedical Sciences Neurosciences
+ program: 
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+Division of Biology & Biomedical Sciences Neurosciences
+\end_layout
+
+\begin_layout Itemize
 Credit only the program for any of the non-DBBS PhDs on the Medical Campus:
- Program in Movement Science or Program in Speech & Hearing
+ 
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+Program in Movement Science 
+\begin_inset Newline newline
+\end_inset
+
+or 
+\begin_inset Newline newline
+\end_inset
+
+Program in Speech & Hearing
+\end_layout
+
+\begin_layout Itemize
 If you are in a department in Engineering, credit the School and the department:
- School of Engineering & Applied Science Department of Biomedical Engineering
+ 
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+School of Engineering & Applied Science 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+Department of Biomedical Engineering
+\end_layout
+
+\begin_layout Itemize
 If you are in social work or business, your administrative unit is the School:
- Brown School of Social Work or Olin Business School
+ 
 \end_layout
 
 \begin_layout Standard
-Abstract page Frequent confusion occurs because your abstract heading names
- your degree rather than your administrative unit, so it may – or may not
- – match your title page in that respect.
+\noindent
+\align center
+Brown School of Social Work
+\begin_inset Newline newline
+\end_inset
+
+ or 
+\begin_inset Newline newline
+\end_inset
+
+Olin Business School
+\end_layout
+
+\begin_layout Section*
+Abstract page 
 \end_layout
 
 \begin_layout Standard
-For the Division of Biology & Biomedical Sciences: Doctor of Philosophy
- in Biology and Biomedical Sciences Neurosciences
+Frequent confusion occurs because your abstract heading names your degree
+ rather than your administrative unit, so it may – or may not – match your
+ title page in that respect.
+\end_layout
+
+\begin_layout Itemize
+For the Division of Biology & Biomedical Sciences: 
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+Doctor of Philosophy in Biology and Biomedical Sciences Neurosciences
+\end_layout
+
+\begin_layout Itemize
 For a co-sponsored degree such as English & Comparative Literature, credit
- both: Doctor of Philosophy in English and Comparative Literature
+ both: 
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+Doctor of Philosophy in English and Comparative Literature
+\end_layout
+
+\begin_layout Itemize
 If your degree is offered by one department of Arts & Sciences on the Danforth
- Campus: Doctor of Philosophy in Chemistry
+ Campus: 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+Doctor of Philosophy in Chemistry
 \end_layout
 
 \end_body
