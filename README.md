@@ -15,7 +15,6 @@ The current version has been tested with Lyx 2.1.2 and TeX Live 2014 (OS X 10.10
 
 
 ## Remark
-* Math symbol and equation packages (such as amsmath) are not used, add by yourself.
 * Default citation and bibliography styles are used. All references are included by default.
 * The default latex font (Computer Modern) is used.
 * Hyperref is used by default.
