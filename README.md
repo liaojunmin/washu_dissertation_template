@@ -1,6 +1,8 @@
 # washu_dissertation_template
 Latex/Lyx source code of the dissertation template for Washington University. Distributed under Creative Common License 1.0. You are encouraged to fork and improve this project.
 
+The full template/code/package can be downloaded [here](https://github.com/liaojunmin/washu_dissertation_template/archive/master.zip).
+
 School of Engineering & Applied Science also provides a Latex template. You can find it [here](https://engineering.wustl.edu/current-students/student-services/Pages/forms.aspx).
 
 ## File
