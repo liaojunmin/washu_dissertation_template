@@ -74,7 +74,7 @@ theorems-ams-extended-bytype
 \leftmargin 1in
 \topmargin 1in
 \rightmargin 1in
-\bottommargin 1in
+\bottommargin 1.43in
 \secnumdepth 3
 \tocdepth 2
 \paragraph_separation indent
