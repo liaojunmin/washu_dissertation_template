@@ -344,6 +344,22 @@ status open
 
 
 \backslash
+begin{spacing}{1.15}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 renewcommand*{
 \backslash
 contentsname}{Table of Contents}
@@ -458,6 +474,22 @@ numberline{}List of Tables}
 \begin_layout Standard
 \paragraph_spacing other 1.15
 \begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{spacing}
+\end_layout
 
 \end_inset
 
@@ -2414,11 +2446,45 @@ E=mc^{2}
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{
+\backslash
+numberline{}Bibliography}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintAll"
 bibfiles "test"
-options "bibtotoc,ieeetr"
+options "ieeetr"
 
 \end_inset
 

@@ -112,6 +112,8 @@ St. Louis, Missouri
 
 \clearpage{}
 
+\begin{spacing}{1.15}
+
 \renewcommand*{\contentsname}{Table of Contents}
 
 \begin{spacing}{1.15}
@@ -137,6 +139,8 @@ St. Louis, Missouri
 
 \begin{spacing}{1.15}
 \listoftables
+
+\end{spacing}
 
 \end{spacing}
 
@@ -650,8 +654,12 @@ E=mc^{2}
 
 \clearpage{}
 
+\phantomsection
+
+\addcontentsline{toc}{chapter}{\numberline{}Bibliography}
+
 \bibliographystyle{ieeetr}
-\phantomsection\addcontentsline{toc}{chapter}{\bibname}\nocite{*}
+\nocite{*}
 \bibliography{test}
 
 
