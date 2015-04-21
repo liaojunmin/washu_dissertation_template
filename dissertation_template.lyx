@@ -2453,6 +2453,22 @@ status open
 
 
 \backslash
+begin{spacing}{1}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 phantomsection
 \end_layout
 
@@ -2485,6 +2501,22 @@ LatexCommand bibtex
 btprint "btPrintAll"
 bibfiles "test"
 options "ieeetr"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{spacing}
+\end_layout
 
 \end_inset
 
