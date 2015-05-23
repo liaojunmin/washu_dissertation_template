@@ -529,7 +529,7 @@ status open
 \backslash
 addcontentsline{toc}{chapter}{
 \backslash
-numberline{}Acknowledgements}
+numberline{}Acknowledgments}
 \end_layout
 
 \end_inset
